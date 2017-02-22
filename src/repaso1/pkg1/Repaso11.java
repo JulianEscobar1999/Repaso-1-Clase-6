@@ -7,6 +7,6 @@ public class Repaso11 {
     public String name;
     
     public void bark(){
-         System.out.println("Ruff! Wou");
-     }
+         System.out.println("Ruff! Wou");       
+    }
 }
